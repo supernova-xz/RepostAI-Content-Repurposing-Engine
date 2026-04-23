@@ -1,7 +1,7 @@
 # 🚀 repostai | The Ultimate AI Content Repurposing Engine
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=2000&auto=format&fit=crop" alt="repostai banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1322995933281128524/1496801293786812416/Captusdfsdfsdfre.PNG?ex=69eb3455&is=69e9e2d5&hm=b8915f8130607a9c65bed73dff187d8041fe5151b87eb49d8ca60d3e9dd48432&" alt="repostai banner" width="100%">
 </p>
 
 <p align="center">
