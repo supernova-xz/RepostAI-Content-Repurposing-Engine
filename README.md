@@ -1,4 +1,4 @@
-# 🚀 repostai | The Ultimate AI Content Repurposing Engine
+# 🚀 RepostAI | The Ultimate AI Content Repurposing Engine
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1322995933281128524/1496801293786812416/Captusdfsdfsdfre.PNG?ex=69eb3455&is=69e9e2d5&hm=b8915f8130607a9c65bed73dff187d8041fe5151b87eb49d8ca60d3e9dd48432&" alt="repostai banner" width="100%">
@@ -16,8 +16,8 @@
 
 ---
 
-## 💎 What is repostai?
-**repostai** is a premium content engine designed for creators, marketers, and SaaS founders. It transforms one long-form piece of content (like a blog post, article, or research paper) into a powerful, multi-platform social media campaign in under 30 seconds.
+## 💎 What is RepostAI?
+**RepostAI** is a premium content engine designed for creators, marketers, and SaaS founders. It transforms one long-form piece of content (like a blog post, article, or research paper) into a powerful, multi-platform social media campaign in under 30 seconds.
 
 **🔗 Live Link:** [https://repostai.app](https://repost-ai-tau.vercel.app/)
 
@@ -26,7 +26,7 @@
 ## 🔥 Key Features
 
 ### 🛠️ Multi-Platform Optimization
-Don't just copy-paste. **repostai** understands the "vibe" of every platform:
+Don't just copy-paste. **RepostAI** understands the "vibe" of every platform:
 - **Twitter (X) Threads**: Hooks, emojis, and viral formatting.
 - **LinkedIn Growth**: Authority-building posts with professional formatting.
 - **Instagram Captions**: High-engagement copy with visual spacing and hashtags.
@@ -53,7 +53,7 @@ This tool is designed for high-ranking content creation.
 
 ---
 
-## 📈 Why use repostai?
+## 📈 Why use RepostAI?
 - **Speed**: Move 10x faster than traditional writing methods.
 - **Reach**: Reach users on multiple platforms with zero extra effort.
 - **Frictionless**: No setup, no friction. Just paste, generate, and grow.
